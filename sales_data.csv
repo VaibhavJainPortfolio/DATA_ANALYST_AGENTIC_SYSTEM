@@ -1,0 +1,10 @@
+Product,Region,Sales,Profit,Units Sold,Date
+Laptop,North,55000,7000,50,2024-01-15
+Phone,South,30000,4000,80,2024-01-20
+Tablet,East,20000,2500,30,2024-02-10
+Laptop,West,45000,6000,40,2024-02-20
+Phone,North,32000,3800,85,2024-03-05
+Tablet,South,21000,2700,35,2024-03-18
+Laptop,East,58000,7500,55,2024-04-01
+Phone,West,29000,3500,78,2024-04-15
+Tablet,North,22000,2600,33,2024-04-20
